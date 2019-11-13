@@ -28,7 +28,7 @@
 4. 폰 데이터 베이스
 5. 프로세싱 소개 및 예제 실행
 6. 서버와 Wifi 통신하기 
-* 에뮬레이터 활용법
+* [에뮬레이터 활용법](https://appinventor.mit.edu/explore/ai2/setup-emulator.html)
 * 팀 프로젝트 기획 및 계획서
 
 ## 3부. 알고리즘 및 블루투스
